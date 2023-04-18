@@ -14,10 +14,10 @@ Une aide pour le vocabulaire du projet voltaire.
 ## FAQ
 
 ### Quels sont les niveaux et étapes disponibles?
-Actuellement, il y a seulement le niveau 1 de la série 5 de disponible. D'autres niveaux sont a venir (il faut que je fasse le projet en entier mdr).
+Actuellement, il y a seulement le niveau 1 des séries de 5 à 7 de disponibles. D'autres niveaux sont a venir (il faut que je fasse le projet en entier mdr).
 ## Support
 
-Pour le support, discord: steever38#0252 ou le [__serveur discord__](https://www.discord.gg/yCggt695tT)
+Pour le support, discord: steever38#2655 ou le [__serveur discord__](https://www.discord.gg/yCggt695tT)
 
 
 ### Attention:
