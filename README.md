@@ -17,7 +17,7 @@ Une aide pour le vocabulaire du projet voltaire.
 Actuellement, il y a seulement le niveau 1 des séries de 5 à 7 de disponibles. D'autres niveaux sont a venir (il faut que je fasse le projet en entier mdr).
 ## Support
 
-Pour le support, discord: steever38#2655 ou le [__serveur discord__](https://www.discord.gg/yCggt695tT)
+Pour le support, discord: steever38 ou le [**_serveur discord_**](https://www.discord.gg/yCggt695tT)
 
 
 ### Attention:
